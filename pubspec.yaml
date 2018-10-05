@@ -12,8 +12,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-  flutter_sequence_animation: "^2.0.0"
+  flutter_sequence_animation:
+    git: https://github.com/MaximilianKlein/flutter_sequence_animation.git
 
 
 dev_dependencies:
